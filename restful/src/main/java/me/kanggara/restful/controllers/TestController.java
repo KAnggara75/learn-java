@@ -18,6 +18,4 @@ public class TestController {
     public String other(){
         return "This Is POST Method";
     }
-
-
 }
